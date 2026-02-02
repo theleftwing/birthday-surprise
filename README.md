@@ -3,7 +3,6 @@
 A sweet, heartfelt birthday website built using **Next.js + Framer Motion** — perfect for surprising someone special on their birthday 🎂💖
 
 > ⚠️ This is a **free version**, so some features like background music, animations and balloon screen, final surprise screen are not included. Premium version includes full features, music, animations & everything with guide & support.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/birthday-v3-light-edition).
 ---
 
 ## 🛠 Tech Stack
@@ -20,10 +19,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/birthday-v3-light.git
+git clone https://github.com/theleftwing/birthday-surprise.git
 
 # Navigate into the folder
-cd birthday-v3-light
+cd birthday-surprise
 
 # Install dependencies
 npm install
@@ -40,18 +39,16 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📷 Instagram: [@the_left.wing](https://instagram.com/the_left.wing)
+- 💼 LinkedIn: [Aslam Shah](https://linkedin.com/in/aslamshahyt)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/the_left.wing)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
+Made with emotions by **The Left** – _@the_left.wing_
 
 ---
 
@@ -65,5 +62,5 @@ Made with emotions by **Anuj** – _@anujbuilds_
 
 ### Premium Code
 - The premium code can be used publicly **only if I give permission & with proper credit**:  
-  `Website idea & code by @anujbuilds`  
+  `Website idea & code by @the_left.wing`  
 - Without credit or without explicit permission, public use is **not allowed**.
